@@ -1,0 +1,11 @@
+Shortcuts keys 
+
+1]  Ctr + J	           Toogle between termilal and editor
+2]  Ctr + Q	           Explore but also Go to the file manu
+3]  Ctr + B	           Open/ Close file manu
+4]  F6	               Run
+5]  CRT + L	           Select full line 
+6]  ALT + up/down 	   to move line up and down also true for multiple lines
+
+
+
